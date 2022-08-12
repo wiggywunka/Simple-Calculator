@@ -1,6 +1,6 @@
 /**
  *
- * @author KNPhoenix
+ * @author WiggyWunka
  */
 
 import java.util.Scanner;
